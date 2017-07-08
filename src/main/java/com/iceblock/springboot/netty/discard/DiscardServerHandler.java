@@ -6,8 +6,6 @@ import io.netty.channel.ChannelInboundHandlerAdapter;
 import io.netty.util.CharsetUtil;
 import io.netty.util.ReferenceCountUtil;
 
-import java.nio.charset.StandardCharsets;
-
 /**
  * 最简单的 Discard 协议服务类
  *
